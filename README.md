@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JudaSoft/JudaSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# JudaSoft
 
-Here are some ideas to get you started:
+**אודי | כלי Windows עם ממשק בעברית**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div dir="rtl" align="right">
+
+## היי, אני אודי
+
+אני בונה כלים שימושיים ל־Windows עם ממשק בעברית. כאן אני משתף את הפרויקטים שאני עובד עליהם ואת הקוד שמאחוריהם.
+
+## פרויקט נבחר
+
+**[JudaSoft Media Downloader](https://github.com/JudaSoft/judasoft-media-downloader)** הוא כלי נייד להורדת מדיה מ־YouTube. אפשר להוסיף קישור מימין, לעקוב אחר כמה הורדות משמאל ולבחור MP3 או MP4, איכות ושם קובץ.
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/JudaSoft/judasoft-media-downloader">
+    <img src="https://raw.githubusercontent.com/JudaSoft/judasoft-media-downloader/main/docs/preview.png" width="720" alt="JudaSoft Media Downloader">
+  </a>
+</div>
